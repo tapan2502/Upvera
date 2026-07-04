@@ -1,7 +1,4 @@
 # Environment files — NEVER commit these
-.env
-.env.local
-.env.production
 
 # Dependencies
 node_modules/
@@ -23,3 +20,4 @@ npm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+config.bat
